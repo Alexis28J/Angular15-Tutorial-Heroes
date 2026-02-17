@@ -15,3 +15,5 @@ Questo comando scaricherà temporaneamente la CLI 15, creerà il progetto e conf
 
 Quindi, ho eseguito il comando "npx @angular/cli@15 new angular-tour-of-heroes --directory ./" per creare un nuovo progetto con Angular 15
 In questa versione non ti aggiunge il file della routing automaticamente quindi dire di si all'opzione "Would you like to add Angular routing?"
+
+ng serve --open o ng serve -o per lanciare e aprire direttamente l'applicazione.
